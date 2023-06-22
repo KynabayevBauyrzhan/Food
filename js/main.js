@@ -213,7 +213,7 @@ window.addEventListener('DOMContentLoaded', function() {
         ".menu .container"
     ).render();
 
-      //Forms
+       //Forms
 
       const forms = document.querySelectorAll('form');
        const message = {
@@ -257,5 +257,4 @@ window.addEventListener('DOMContentLoaded', function() {
             });
         });
     }
-});
 });
